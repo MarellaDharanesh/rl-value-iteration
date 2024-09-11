@@ -22,7 +22,7 @@ The FrozenLake environment in OpenAI Gym is a gridworld problem that challenges 
 - 11 Non-terminal States:
     - `S` (Starting state): 
       - The initial position of the agent.
-      - In this MDP the goal state is `state 1`
+      - In this MDP the stating state is `state 1`
     - `Intermediate states`: Grid cells forming a layout that the agent must traverse.
 
 ### Actions
