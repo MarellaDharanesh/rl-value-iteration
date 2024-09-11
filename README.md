@@ -100,7 +100,7 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/0a3dee08-4daa-42b9-9b6f-d4df6638f535)
+![Screenshot 2024-09-11 113750](https://github.com/user-attachments/assets/1d1ac188-798f-4fa8-a309-8377e9fc44a5)
 
 
 ## RESULT:
